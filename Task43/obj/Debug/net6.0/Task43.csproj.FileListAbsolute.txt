@@ -1,0 +1,15 @@
+/Users/vladimirivanov/Desktop/Учеба/HomeWork06C#/Task43/obj/Debug/net6.0/Task43.csproj.AssemblyReference.cache
+/Users/vladimirivanov/Desktop/Учеба/HomeWork06C#/Task43/obj/Debug/net6.0/Task43.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirivanov/Desktop/Учеба/HomeWork06C#/Task43/obj/Debug/net6.0/Task43.AssemblyInfoInputs.cache
+/Users/vladimirivanov/Desktop/Учеба/HomeWork06C#/Task43/obj/Debug/net6.0/Task43.AssemblyInfo.cs
+/Users/vladimirivanov/Desktop/Учеба/HomeWork06C#/Task43/obj/Debug/net6.0/Task43.csproj.CoreCompileInputs.cache
+/Users/vladimirivanov/Desktop/Учеба/HomeWork06C#/Task43/bin/Debug/net6.0/Task43
+/Users/vladimirivanov/Desktop/Учеба/HomeWork06C#/Task43/bin/Debug/net6.0/Task43.deps.json
+/Users/vladimirivanov/Desktop/Учеба/HomeWork06C#/Task43/bin/Debug/net6.0/Task43.runtimeconfig.json
+/Users/vladimirivanov/Desktop/Учеба/HomeWork06C#/Task43/bin/Debug/net6.0/Task43.dll
+/Users/vladimirivanov/Desktop/Учеба/HomeWork06C#/Task43/bin/Debug/net6.0/Task43.pdb
+/Users/vladimirivanov/Desktop/Учеба/HomeWork06C#/Task43/obj/Debug/net6.0/Task43.dll
+/Users/vladimirivanov/Desktop/Учеба/HomeWork06C#/Task43/obj/Debug/net6.0/refint/Task43.dll
+/Users/vladimirivanov/Desktop/Учеба/HomeWork06C#/Task43/obj/Debug/net6.0/Task43.pdb
+/Users/vladimirivanov/Desktop/Учеба/HomeWork06C#/Task43/obj/Debug/net6.0/Task43.genruntimeconfig.cache
+/Users/vladimirivanov/Desktop/Учеба/HomeWork06C#/Task43/obj/Debug/net6.0/ref/Task43.dll
